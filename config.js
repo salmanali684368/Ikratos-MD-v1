@@ -48,24 +48,24 @@ global.sdc = '-' //Fill it out using the Discord link, if there is one, just lea
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, This is up to you to fill in :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '+923100184577' //Nomor Danamu
-global.ppulsa = '+923100184577' //Nomor SimCard Yang Kamu Pake
+global.pdana = '+923011080145' //Nomor Danamu
+global.ppulsa = '+923011080145' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '+923100184577' //Nomor Bot
-global.nomorown = '+923100184577' //Nomor Owner
-global.namebot = 'Ikratos-MD-v1' //Nama Bot
+global.nomorbot = '+923011080145' //Nomor Bot
+global.nomorown = '+923011080145' //Nomor Owner
+global.namebot = '𝑆𝛥𝐿𝛭𝛥𝛮' //Nama Bot
 global.nameown = '✎₊₉͒₂͒₃₁ᷤ₁ᷧ₅ᷞ₁ᷟ₆ᷧ₀ᷡ₇₆͒₅͒✰🇵🇰' // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['923470027813', 'ᴀʜᴍᴀᴅ ᴀʟɪ🎐', true] //Replace your number with your name
+  ['+923011080145', 'ᴀʜᴍᴀᴅ ᴀʟɪ🎐', true] //Replace your number with your name
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
-global.prems = ['+923100184577','+923100184577','+923100184577'] // Premium user is not here to add it, type .addprem @ user 10
+global.prems = ['+923011080145','+923011080145','+923011080145'] // Premium user is not here to add it, type .addprem @ user 10
 
 
 global.lolkey = 'apikeymu'
@@ -130,7 +130,7 @@ global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
 global.eror = '```404 error```'
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+923100184577'
+global.phn = '+923011080145'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
